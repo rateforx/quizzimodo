@@ -1,0 +1,18 @@
+body {
+    margin                  : 0;
+    font-family             : 'Baloo 2', cursive;
+    font-weight             : 300;
+    -webkit-font-smoothing  : antialiased;
+    -moz-osx-font-smoothing : grayscale;
+
+    background-color        : #61d2e7;
+    /*background-image        : url('/bgl.svg'), url('/bgr.svg');*/
+    /*background-position     : left top, right top;*/
+    /*background-repeat       : no-repeat;*/
+    /*background-size         : 10% auto;*/
+}
+
+code {
+    font-family : source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
