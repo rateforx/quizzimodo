@@ -8,7 +8,7 @@ function App () {
     return (
         <Container>
             <div className = "app">
-                <header>
+                <header className='py-5'>
                     <img src = { logo } alt = 'quiz logo' height = '100' width = 'auto'/>
                 </header>
                 <Quiz/>
